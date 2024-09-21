@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "9696f139430936df",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9c951f1f74aa868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6e175ce72a1c540",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c26a25b03669081",
+    "type": "split",
+    "children": [
+      {
+        "id": "2984a8c16117e692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d92e8f2169223b8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93334ca6d4671efe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3cd3df9cf8bbc6fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 672.5
+  },
+  "right": {
+    "id": "b2935daa24fa2f3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a94fd7077e5462d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "726b73ad9fdcfb2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6eb75b2a1c3482d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2db663df7cfb6f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "604e08ed848f233c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b6e175ce72a1c540",
+  "lastOpenFiles": [
+    "High-pass filters in Image Processing.md",
+    "Formule per valutare qualità di un algoritmo.md",
+    "Fourier - Serie, Trasformata, applicazione.md",
+    "Convoluzioni - definizione e formule generiche.md",
+    "Band-reject filter in image processing.md",
+    "Operazioni e manipolazioni con le matrici.md",
+    "Introduzione alla compressione digitale.md",
+    "Equalizzazione di una immagine tramite istogramma.md",
+    "Da maschera spaziale a filtro convoluzionale nel dominio Fourier.md",
+    "Filtri di convoluzione.md",
+    "Digitalizzazione immagini, CCD, CFA.md",
+    "Introduzione agli operatori puntuali, e curva di lookup.md",
+    "Memorizzazione digitale dei colori e scorciatoie.md",
+    "Tre Proprietà della DFT.md",
+    "Teorema della Convoluzione e DFT.md",
+    "Range dinamico e spettro di una trasformata di Fourier.md",
+    "Quantizzazione uniforme e non-uniforme logaritmica.md",
+    "Problemi del sistema CIE-CIE XYZ e spazi di colore alternativi.md",
+    "Principali operatori puntuali.md",
+    "Interazione e Multimedia.md"
+  ]
+}
